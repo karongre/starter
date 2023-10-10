@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+body > a :first-child{
+    position: absolute;
+    top: -50px;
+}
+body > a :first-child{
+    position: absolute;
+    top: -50px;
+}
+.current{
+    color: darkgreen
+}
+
+.container{
+    display: grid;
+    width: 100%
+}
